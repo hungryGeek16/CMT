@@ -5,9 +5,7 @@
 # Copyright (c) OpenMMLab. All rights reserved.
 # ------------------------------------------------------------------------
 
-from distutils.command.build import build
-import enum
-from turtle import down
+
 import math
 import copy
 import numpy as np
